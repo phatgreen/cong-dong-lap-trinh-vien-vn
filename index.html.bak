@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <div class="header">
+            <i class="fas fa-angle-left"></i>
+            <i class="fas fa-bars"></i>
+        </div>
+        <div class="info">
+            <div class="avatar">
+                <img src="images/z3741564893752_4d79cadccfd8e123e6571be987469128.jpg"
+                    alt="">
+            </div>
+            <div class="name">
+                <p>Vũ Tấn Phát
+                    <i class="fas fa-check-circle"></i>
+                </p>
+				<div style="font-size: 11px;color: #ccc;">
+					<p>
+						Xếp Hạng: 3970/50000
+					</p>
+					<p>
+						Cộng đồng lập trình viên Việt Nam
+					</p>
+				</div>
+            </div>
+        </div>
+        <ul class="analyst">
+
+            <li>
+                <p>347</p>
+                <p>Following</p>
+            </li>
+            <li>
+                <p>10.4k</p>
+                <p>Followers</p>
+            </li>
+            <li>
+                <p>43.5k</p>
+                <p>Likes</p>
+            </li>
+        </ul>
+        <div class="actions">
+            <div class="follow">Follow</div>
+            <div class="contact"><a href="https://www.facebook.com/phatphayet">contact</a></div>
+        </div>
+        <div class="videos">
+            <div class="video">
+                <img src="images/z3741564893752_4d79cadccfd8e123e6571be987469128.jpg" alt="">
+            </div>
+            <div class="video">
+                <img src="images/z3741581641787_3a04d753641f99c37c95789d1d2d2cbe.jpg" alt="">
+            </div>
+            <div class="video">
+                <img src="images/z3741581652099_29403e716b1e3714b57b7f92f63c9582.jpg" alt="">
+            </div>
+            <div class="video">
+                <img src="images/z3741581653745_abfb19ea49d1b9dc299204fc763f50bc.jpg" alt="">
+            </div>
+            <div class="video">
+                <img src="images/z3741581646823_449d3582016fdee7b0ee2b3a52cc99f5.jpg" alt="">
+            </div>
+            <div class="video">
+                <img src="images/z3741581644832_159c01f42d473f7a042e7fe7f8f5a85c.jpg" alt="">
+            </div>
+            <div class="video">
+                <img src="images/hj.avif" alt="">
+            </div>
+            <div class="video">
+                <img src="images/g.avif" alt="">
+            </div>
+            <div class="video">
+                <img src="images/a.avif" alt="">
+            </div>
+        </div>
+
+        <div class="footer">
+            <ul class="footer-menu">
+                <li>
+                    <i class="fas fa-home"></i>
+                </li>
+                <li>
+                    <i class="fas fa-search"></i>
+                </li>
+
+                <li>
+                    <i class="fas fa-home"></i>
+                </li>
+                <li>
+                    <i class="far fa-bell"></i>
+                </li>
+                <li>
+                    <i class="fas fa-chart-line"></i>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
